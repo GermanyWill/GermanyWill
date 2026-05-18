@@ -21,3 +21,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Network Mapping and Monitoring
 - HoneyPot
 - Digital Forensics
+- Email Analysis
