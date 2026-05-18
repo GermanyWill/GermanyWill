@@ -22,3 +22,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - HoneyPot
 - Digital Forensics
 - Email Analysis
+
+## Certifications
+- CompTIA Security+
+- CompTIA CySA+
+- CompTIA Pentest+
+- CompTIA Network+
+- ISC2 SSCP
+- CompTIA Cloud+
+- AZ900
+- AWS CCP
+- LPI Linux Essentials
+- CompTIA A+
+- ITIL V4
+  
