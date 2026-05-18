@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Assessment and Analysis         | <a href="https://google.com">Network Mapping and Monitoring</a>|
-| Threat Detection and Monitoring Skills | <a href="https://google.com">HoneyPot Project</a>|
+| Threat Detection and Monitoring Skills | <a href="https://github.com/GermanyWill/HoneyPot-Lab/tree/main">HoneyPot Project</a>|
 | Digital Forensics        | <a href="https://google.com">Digital Forensics</a>|
 
 
