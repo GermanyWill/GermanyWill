@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Germany Williams
+<a href="https://www.linkedin.com/in/germany-williams/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjFdkxLB0SiqMtU8PbKPOPg%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**GermanyWill/GermanyWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am an IT Professional who is transitioning into the cybersecurity field to help protect those who need it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Vulnerability Assessment and Analysis         | <a href="https://google.com">Network Mapping and Monitoring</a>|
+| Threat Detection and Monitoring Skills | <a href="https://google.com">HoneyPot Project</a>|
+| Digital Forensics        | <a href="https://google.com">Digital Forensics</a>|
+
+
+## Projects
+- Network Mapping and Monitoring
+- HoneyPot
+- Digital Forensics
