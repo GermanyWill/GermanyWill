@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Vulnerability Assessment and Analysis         | <a href="https://google.com">Network Mapping and Monitoring</a>|
 | Threat Detection and Monitoring Skills | <a href="https://github.com/GermanyWill/HoneyPot-Lab/tree/main">HoneyPot Project</a>|
 | Digital Forensics        | <a href="https://google.com">Digital Forensics</a>|
-| Email Analysis      | <a href="https://google.com">Email Analysis</a>|
+| Email Analysis      | <a href="https://github.com/GermanyWill/Email-Analysis-Lab">Email Analysis</a>|
 
 ## Projects
 - Network Mapping and Monitoring
