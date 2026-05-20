@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Assessment and Analysis         | <a href="https://google.com">Network Mapping and Monitoring</a>|
+| Vulnerability Assessment and Analysis         | <a href="https://github.com/GermanyWill/Network-Mapping-and-Monitoring">Network Mapping and Monitoring</a>|
 | Threat Detection and Monitoring Skills | <a href="https://github.com/GermanyWill/Azure-Sentinel-SIEM-Lab">Azure Sentinel SIEM Project</a>|
 | Digital Forensics        | <a href="https://github.com/GermanyWill/Digital-Forensics-Lab/tree/main">Digital Forensics</a>|
 | Email Analysis      | <a href="https://github.com/GermanyWill/Email-Analysis-Lab">Email Analysis</a>|
