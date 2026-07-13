@@ -12,19 +12,26 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Security Operations Automation    | <a href="https://github.com/GermanyWill/Email-Analysis-Lab">Email Analysis</a>|
+| Active Directory & SIEM    | <a href="https://github.com/GermanyWill/Email-Analysis-Lab">Email Analysis</a>|
+| SOAR Endpoint Response   | <a href="https://github.com/GermanyWill/Email-Analysis-Lab">Email Analysis</a>|
+| Nessus Vulnerability Management   | <a href="https://github.com/GermanyWill/Email-Analysis-Lab">Email Analysis</a>|
+| Azure Virtual Network    | <a href="https://github.com/GermanyWill/Email-Analysis-Lab">Email Analysis</a>|
 | Vulnerability Assessment and Analysis         | <a href="https://github.com/GermanyWill/Network-Mapping-and-Monitoring">Network Mapping and Monitoring</a>|
 | Threat Detection and Monitoring Skills | <a href="https://github.com/GermanyWill/Azure-Sentinel-SIEM-Lab">Azure Sentinel SIEM Project</a>|
 | Digital Forensics        | <a href="https://github.com/GermanyWill/Digital-Forensics-Lab/tree/main">Digital Forensics</a>|
 | Email Analysis      | <a href="https://github.com/GermanyWill/Email-Analysis-Lab">Email Analysis</a>|
-| Azure Virtual Network    | <a href="https://github.com/GermanyWill/Email-Analysis-Lab">Email Analysis</a>|
-
 
 ## Projects
+- Security Operations Automation
+- Active Directory & SIEM
+- SOAR Endpoint Response
+- Nessus Vulnerability Management
+- Azure Virtual Network 
 - Network Mapping and Monitoring
 - HoneyPot
 - Digital Forensics
 - Email Analysis
-- Azure Virtual Network
 
 ## Certifications
 - CompTIA Security+
