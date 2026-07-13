@@ -16,12 +16,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Threat Detection and Monitoring Skills | <a href="https://github.com/GermanyWill/Azure-Sentinel-SIEM-Lab">Azure Sentinel SIEM Project</a>|
 | Digital Forensics        | <a href="https://github.com/GermanyWill/Digital-Forensics-Lab/tree/main">Digital Forensics</a>|
 | Email Analysis      | <a href="https://github.com/GermanyWill/Email-Analysis-Lab">Email Analysis</a>|
+| Azure Virtual Network    | <a href="https://github.com/GermanyWill/Email-Analysis-Lab">Email Analysis</a>|
+
 
 ## Projects
 - Network Mapping and Monitoring
 - HoneyPot
 - Digital Forensics
 - Email Analysis
+- Azure Virtual Network
 
 ## Certifications
 - CompTIA Security+
